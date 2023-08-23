@@ -1308,5 +1308,19 @@
             ],
             "price": "6300"
         }
+    ],
+    "experimant": [
+        {
+            "id": 1,
+            "username": "admin",
+            "password": "admin",
+            "email": "admin@admin.com"
+        },
+        {
+            "id": 2,
+            "username": "Abhijit",
+            "password": "Barman",
+            "email": "experimant@gmail.com"
+        }
     ]
 }
