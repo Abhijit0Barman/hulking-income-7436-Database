@@ -1,0 +1,1312 @@
+{
+    "packages": [
+        {
+            "id": 1,
+            "title": "Wonderful Indonesia,Bali Family Holiday Package for 6 Nights",
+            "duration": "6 Nights / 7 Days",
+            "destination": "Indonesia",
+            "location": "Ubud (3N) → Seminyak (3N)",
+            "description": [
+                " Known as the `Island of the Gods`. It attracts visitors with its stunning beaches, lush landscapes, vibrant arts scene, and rich cultural heritage.!"
+            ],
+            "image": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/f8/1c/13/padma-resort-ubud.jpg?w=900&h=500&s=1",
+                "https://cf.bstatic.com/xdata/images/hotel/max1024x768/249980321.jpg?k=acc8132eab8d77aee43acdaf199979a72f67ea987b57e78d8c0391cfbfd21ec1&o=&hp=1",
+                "https://images.unsplash.com/photo-1571755931207-3ede68df575a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=874&q=80",
+                "https://images.unsplash.com/photo-1571984405176-5958bd9ac31d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U2VtaW55YWt8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+                "https://images.unsplash.com/photo-1598751240191-fbe4a9a30e02?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YmFsaSUyMGluZG9uZXNpYXxlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Ubud",
+                    "description": "Upon arrival in Bali, transfer to your hotel in Ubud and spend the day at leisure. Explore the art and cultural center of Bali, visit ancient temples, and enjoy the lush green landscapes. Overnight stay in Ubud."
+                },
+                {
+                    "title": "Day 2: Ubud Sightseeing",
+                    "description": "Embark on a full-day sightseeing tour of Ubud. Visit popular attractions such as the Ubud Monkey Forest, Tegalalang Rice Terrace, and the traditional art market. Explore Ubud's art galleries, watch traditional dance performances, and indulge in Balinese cuisine. Overnight stay in Ubud."
+                },
+                {
+                    "title": "Day 3: Ubud Temples and Waterfalls",
+                    "description": "Explore the mystical temples of Ubud, including Goa Gajah (Elephant Cave) and the sacred Tirta Empul Temple. Discover the beauty of Tegenungan Waterfall and enjoy a refreshing swim. Immerse yourself in the spiritual and natural wonders of Ubud. Overnight stay in Ubud."
+                },
+                {
+                    "title": "Day 4: Transfer to Seminyak",
+                    "description": "Check out from your Ubud hotel and transfer to Seminyak, a vibrant beach resort area in Bali. Enjoy the beautiful beaches, trendy beach clubs, and upscale shopping and dining options. Spend the day at leisure and relax by the beach. Overnight stay in Seminyak."
+                },
+                {
+                    "title": "Day 5: Seminyak Beaches and Sunset",
+                    "description": "Explore the stunning beaches of Seminyak, including Double Six Beach and Petitenget Beach. Relax on the golden sands, indulge in water sports, or pamper yourself with spa treatments. In the evening, witness a breathtaking sunset while enjoying cocktails at one of the beachfront bars. Overnight stay in Seminyak."
+                },
+                {
+                    "title": "Day 6: Tanah Lot Temple and Uluwatu Sunset Tour",
+                    "description": "Embark on a tour to visit two iconic temples in Bali. Explore the magnificent Tanah Lot Temple, perched on a rocky outcrop by the sea. In the evening, witness the famous Kecak Fire Dance performance at Uluwatu Temple, set atop a cliff with panoramic ocean views. Overnight stay in Seminyak."
+                },
+                {
+                    "title": "Day 7: Departure",
+                    "description": "After breakfast, check out from your hotel in Seminyak and transfer to the airport for your onward journey. Depart from Bali with unforgettable memories of your enchanting Bali experience."
+                }
+            ],
+            "price": 30000
+        },
+        {
+            "id": 2,
+            "title": "Family Tour Package of Yogyakarta",
+            "duration": "4 Nights / 5 Days",
+            "destination": "Indonesia",
+            "location": "Yogyakarta (4N)",
+            "description": [
+                " Located on the island of Java, Yogyakarta is renowned for its historical and cultural significance!"
+            ],
+            "image": [
+                "https://media.gettyimages.com/id/1136368901/photo/uddha-statue-at-borobudur-temple-yogyakarta-java-indonesia.jpg?s=612x612&w=0&k=20&c=AR9JLQPSraOH_UfLfl-m5rN1NZwfc2xK2Zanz5Z856s=",
+                "https://images.unsplash.com/photo-1663834442900-e69d7cd97810?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1033&q=80",
+                "https://media.gettyimages.com/id/1158381721/photo/man-sitting-on-old-fashioned-suv-on-the-background-of-merapi-volcano.jpg?s=612x612&w=0&k=20&c=Q9LDf0kZBfX8worhtKdA4qQ45MZUMGuwy4LHcuXp7r0=",
+                "https://media.gettyimages.com/id/1357801809/photo/mount-merapi-indonesia.jpg?s=612x612&w=0&k=20&c=gNBCBvYVQIEDCLsNtKoBexyGzLHGOmNUau1pYEt3Ewc="
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Yogyakarta",
+                    "description": "Upon arrival in Yogyakarta, check-in to your hotel and spend the day at leisure. Explore the city, visit the famous Malioboro street for shopping, and enjoy local Javanese cuisine. Overnight stay in Yogyakarta."
+                },
+                {
+                    "title": "Day 2: Borobudur Temple and Mendut Temple",
+                    "description": "Embark on a full-day excursion to visit Borobudur Temple, the largest Buddhist temple in the world and a UNESCO World Heritage Site. Explore the temple complex, admire the intricate stone carvings, and learn about its rich history. Visit Mendut Temple nearby, known for its ancient Buddhist relics. Overnight stay in Yogyakarta."
+                },
+                {
+                    "title": "Day 3: Prambanan Temple and Ratu Boko Temple",
+                    "description": "Discover the majestic Prambanan Temple, a Hindu temple complex dedicated to Lord Shiva. Marvel at the towering spires and intricate architectural details. In the afternoon, visit Ratu Boko Temple, an archaeological site with panoramic views and ancient ruins. Enjoy a stunning sunset from the temple grounds. Overnight stay in Yogyakarta."
+                },
+                {
+                    "title": "Day 4: Sultan's Palace and Taman Sari Water Castle",
+                    "description": "Explore the Kraton, the Sultan's Palace, and delve into the rich Javanese culture and history. Discover the royal heritage, visit the palace museum, and witness traditional performances. Next, visit Taman Sari Water Castle, a former royal garden with unique water features and historic structures. Overnight stay in Yogyakarta."
+                },
+                {
+                    "title": "Day 5: Departure",
+                    "description": "After breakfast, check out from your hotel and transfer to the airport for your onward journey. Depart from Yogyakarta with wonderful memories of your time exploring the cultural heart of Java."
+                }
+            ],
+            "price": 15000
+        },
+        {
+            "id": 3,
+            "title": "Raja Ampat Islands Package - on coral reefs",
+            "duration": "5 Nights / 6 Days",
+            "destination": "Indonesia",
+            "location": "Sorong (1N) → Waisai (4N)",
+            "description": [
+                "Raja Ampat Islands known for its pristine coral reefs, diverse marine life, and stunning natural landscapes. Snorkel or dive in crystal-clear waters, relax on white-sand beaches, and discover the unique flora and fauna!"
+            ],
+            "image": [
+                "https://images.unsplash.com/photo-1650509009946-32b00cb21a0a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFJhamElMjBBbXBhdCUyMElzbGFuZHN8ZW58MHwwfDB8fHww&auto=format&fit=crop&w=500&q=60",
+                "https://media.gettyimages.com/id/689878248/photo/marine-life-of-raja-ampat-west-papua-indonesia.jpg?s=612x612&w=0&k=20&c=7vcSy6g-tnhE_95uknUZ0HzRn4sinYXCnTzFLlm0UIU=",
+                "https://media.gettyimages.com/id/1153675283/photo/moorish-ideols-zanclus-cornutus-in-blue-window-with-colorful-frame-raja-ampat-indonesia.jpg?s=612x612&w=0&k=20&c=WVwryJtmf4aEXKkSNJyUXbpbaTnC-cdQ09in_ce0VRM=",
+                "https://media.gettyimages.com/id/943858430/photo/many-of-the-small-islands-off-the-coast-of-misool-feature-tranquil-lagoons-that-are-perfect.jpg?s=612x612&w=0&k=20&c=rfuuaaGk2p61h3-r5Ca4sHDL7lpvLYO2S5lYdzNlor4="
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Sorong",
+                    "description": "Upon arrival in Sorong, transfer to your hotel and spend the day at leisure. Explore the town, visit local markets, and learn about the unique Papuan culture. Overnight stay in Sorong."
+                },
+                {
+                    "title": "Day 2: Transfer to Waisai",
+                    "description": "Take a ferry from Sorong to Waisai, the gateway to Raja Ampat. Upon arrival, check-in to your beachfront resort and relax. Enjoy the stunning surroundings and get ready for the upcoming island exploration. Overnight stay in Waisai."
+                },
+                {
+                    "title": "Day 3: Island Hopping in Raja Ampat",
+                    "description": "Embark on a full-day island-hopping adventure in Raja Ampat. Visit iconic islands like Wayag, Misool, or Pianemo, known for their breathtaking landscapes and crystal-clear waters. Snorkel, swim, and capture the beauty of this paradise. Overnight stay in Waisai."
+                },
+                {
+                    "title": "Day 4: Snorkeling and Diving",
+                    "description": "Explore the vibrant underwater world of Raja Ampat. Join snorkeling or diving sessions at popular sites such as Cape Kri, Melissa's Garden, or Blue Magic. Witness the incredible biodiversity of coral reefs and marine life. Overnight stay in Waisai."
+                },
+                {
+                    "title": "Day 5: Cultural Interaction and Relaxation",
+                    "description": "Interact with the local community and learn about their traditions and way of life. Visit traditional villages, participate in local activities, and support community-based initiatives. Spend the rest of the day relaxing on the beach or enjoying water activities. Overnight stay in Waisai."
+                },
+                {
+                    "title": "Day 6: Departure",
+                    "description": "After breakfast, check out from your resort and transfer to the ferry terminal in Waisai. Take the ferry back to Sorong and proceed to the airport for your onward journey. Depart from Sorong with unforgettable memories of your Raja Ampat Islands expedition."
+                }
+            ],
+            "price": 21000
+        },
+        {
+            "id": 4,
+            "title": "Komodo National Park Tour Package",
+            "duration": "3 Nights / 4 Days",
+            "destination": "Indonesia",
+            "location": "Labuan Bajo (1N) → Komodo Island (2N)",
+            "description": [
+                "  Komodo National Park is home to the iconic Komodo dragons, the largest lizards on Earth. Embark on a trekking adventure to see these fascinating creatures up close, explore the surrounding islands, and enjoy world-class diving and snorkeling opportunities!"
+            ],
+            "image": [
+                "https://media.gettyimages.com/id/1177992959/photo/a-tourist-with-an-endemic-komodo-dragon-on-rinca-island-part-of-komodo-national-park-indonesia.jpg?s=612x612&w=0&k=20&c=Prvlcj1bndIlIufnkFk4xxFk0iDy8CWXIq3sdiSSQ5k=",
+                "https://plus.unsplash.com/premium_photo-1661843714194-62e7bc511d8b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8S29tb2RvJTIwTmF0aW9uYWwlMjBQYXJrfGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+                "https://images.unsplash.com/photo-1648726442622-5cd3abeccaa8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fEtvbW9kbyUyME5hdGlvbmFsJTIwUGFya3xlbnwwfDB8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+                "https://www.worldatlas.com/upload/7f/11/e1/shutterstock-259025846.jpg"
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Labuan Bajo",
+                    "description": "Upon arrival in Labuan Bajo, the gateway to Komodo National Park, check-in to your hotel and spend the day exploring the town. Visit local markets, enjoy sunset views from a hilltop, and savor delicious seafood. Overnight stay in Labuan Bajo."
+                },
+                {
+                    "title": "Day 2: Komodo Island Exploration",
+                    "description": "Embark on a boat trip to Komodo Island, home to the famous Komodo dragons. Trek through the national park accompanied by a local ranger, observe the fascinating wildlife, and learn about the unique ecosystem. Enjoy snorkeling at Pink Beach and witness the stunning coral reefs. Overnight stay on the boat near Komodo Island."
+                },
+                {
+                    "title": "Day 3: Rinca Island and Padar Island",
+                    "description": "Explore Rinca Island, another habitat of the Komodo dragons. Trek through the wilderness, spot the giant lizards, and discover other wildlife. Afterward, visit Padar Island, known for its iconic panoramic views and picturesque landscapes. Overnight stay on the boat near Padar Island."
+                },
+                {
+                    "title": "Day 4: Departure",
+                    "description": "After breakfast on the boat, explore one more snorkeling spot near Kanawa Island. Enjoy the crystal-clear waters and vibrant marine life. Return to Labuan Bajo, check out from your hotel, and transfer to the airport for your onward journey. Depart from Labuan Bajo with incredible memories of your Komodo National Park adventure."
+                }
+            ],
+            "price": 15500
+        },
+        {
+            "id": 5,
+            "title": "Gili Islands, Indonesia",
+            "duration": "4 Nights / 5 Days",
+            "destination": "Indonesia",
+            "location": "Gili Trawangan (4N)",
+            "description": [
+                "The Gili Islands offer a paradise-like setting with white sandy beaches, turquoise waters, and vibrant marine life. Relax, snorkel, dive, or simply enjoy the tranquil island vibes!"
+            ],
+            "image": [
+                "https://media.gettyimages.com/id/1280601936/photo/woman-with-turtle-in-water-gili-air-indonesia.jpg?s=612x612&w=0&k=20&c=YugblVpobI5eHRs64WRrFzDRRq_BQv4Qe0bLvN3PfyQ=",
+                "https://media.gettyimages.com/id/1405745665/photo/gili-meno-beach-and-island-in-indonesia.jpg?s=612x612&w=0&k=20&c=Dnh5aIwLqoZN4FyTMKa5IM_C3J7CMpXwbRYoQ9PwyqU=",
+                "https://media.gettyimages.com/id/611072926/photo/tourists-in-the-gili-islands-in-lombok-indonesia.jpg?s=612x612&w=0&k=20&c=QpiU0KU34HTbJElxCnQBD0yWlgMxiCMkRxd5m1DU2FA=",
+                "https://media.gettyimages.com/id/1255675303/photo/high-angle-view-of-an-exotic-island-of-indonesia-gili-meno-on-sunny-day.jpg?s=612x612&w=0&k=20&c=ckmSqNNyXsLw1r3MVv_9Ap7AKpY9RAh_ugfo2NNmegg="
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Gili Trawangan",
+                    "description": "Upon arrival in Gili Trawangan, check-in to your beachfront resort and spend the day at leisure. Enjoy the white sandy beaches, crystal-clear waters, and vibrant nightlife of the island. Overnight stay in Gili Trawangan."
+                },
+                {
+                    "title": "Day 2: Snorkeling and Island Hopping",
+                    "description": "Embark on a snorkeling adventure and explore the underwater beauty of the Gili Islands. Visit popular snorkeling spots such as Turtle Point and Meno Wall. Afterward, hop on a boat to explore the neighboring islands of Gili Air and Gili Meno. Overnight stay in Gili Trawangan."
+                },
+                {
+                    "title": "Day 3: Free Day for Relaxation",
+                    "description": "Spend the day at your own pace, enjoying the beaches, water activities, or simply relaxing by the pool. You can also explore the island on foot or by bicycle and discover local cafes, bars, and shops. Overnight stay in Gili Trawangan."
+                },
+                {
+                    "title": "Day 4: Sunset Horseback Riding",
+                    "description": "In the afternoon, embark on a unique horseback riding experience along the picturesque beaches of Gili Trawangan. Enjoy the stunning sunset views as you ride along the shore. Overnight stay in Gili Trawangan."
+                },
+                {
+                    "title": "Day 5: Departure",
+                    "description": "After breakfast, check out from your resort and transfer to the harbor for your onward journey. Depart from Gili Trawangan with wonderful memories of your island escape."
+                }
+            ],
+            "price": 27000
+        },
+        {
+            "id": 26,
+            "title": "Rajim Temples Tour",
+            "duration": "2 Nights / 3 Days",
+            "destination": "Delhi",
+            "location": "Raipur(2N) → Rajim(1N)",
+            "description": [
+                " Experience the exquisite beauty of the Rajim Temples, featuring stunning architectural designs and intricate carvings of various Hindu deities such as Lord Vishnu, Lord Rama, Lord Narasimha, and Goddess Durga"
+            ],
+            "image": [
+                "https://media.istockphoto.com/id/1138359561/photo/the-chitrakote-falls-also-spelt-as-chitrakote-chitrakot-is-a-natural-waterfall-located-to-the.jpg?s=612x612&w=0&k=20&c=KQdETX4G-_SKEFX5ZEK8zd1GUo0iK2GBeL9cqpzScIs=",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRPgw8orkcircT2x5ebG2bTAg3xc7ENbCAaMsMA8cKew&s",
+                "https://c8.alamy.com/comp/CBP8J2/pearl-palace-moti-mahal-place-of-a-well-known-indian-festival-celebrated-CBP8J2.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/1/1b/Laxman_temple_at_sirpur%2Cchhattisgarh%2Cindia.JPG"
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Raipur",
+                    "description": "Upon arrival at Raipur airport/railway station, embark on a 60 KM drive to Rajim. In the evening, enjoy sightseeing and shopping, including a visit to the Old Mahal. Overnight stay at Kawardha."
+                },
+                {
+                    "title": "Day 2: Rajim Temple Exploration",
+                    "description": "After breakfast, proceed to explore the magnificent Rajim Temples and witness their grandeur. Learn about the rich history and significance of each temple. In the evening, take part in a traditional aarti ceremony. Overnight stay in Rajim."
+                },
+                {
+                    "title": "Day 3: Departure",
+                    "description": "After breakfast, check out from the hotel and drive back to Raipur. En route, visit the famous Jatmai Temple. Upon arrival in Raipur, transfer to the airport/railway station for your onward journey back home."
+                },
+                {
+                    "title": "Day 4: Ayurvedic Massage & Treatment",
+                    "description": "After breakfast, do yoga for 2 hrs.Afterwards, ayurvedic massage and treatment for 3 hrs.After lunch rest for 2 hrs.In the evening,  yoga for 2 more hours.Overnight stay at the hotel."
+                },
+                {
+                    "title": "Day 5: Ayurvedic Massage & Treatment",
+                    "description": "After breakfast, do yoga for 2 hrs.Afterward, ayurvedic massage and treatment for 3 hrs. After lunch, rest for 2 hrs. In the evening, yoga for 2 more hours. Overnight stay at the hotel."
+                },
+                {
+                    "title": "Day 6: Departure",
+                    "description": "After breakfast, check out from the hotel and transfer to Kochi airport for your onward journey back home."
+                }
+            ],
+            "price": 20000
+        },
+        {
+            "id": 21,
+            "title": "Golden Triangle Tour",
+            "duration": "6 Nights / 7 Days",
+            "location": "Delhi(2N) → Agra(2N) → Jaipur(2N)",
+            "description": [
+                "Embark on a mesmerizing journey through India's rich cultural heritage with the Golden Triangle Tour. Visit iconic landmarks, experience vibrant cities, and immerse yourself in the captivating history and architecture of Delhi, Agra, and Jaipur.",
+                "Marvel at the grandeur of the Taj Mahal, explore the magnificent forts and palaces of Jaipur, and discover the bustling markets and old-world charm of Delhi."
+            ],
+            "image": [
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTteGHnUQMFfN2CabHQb62yTWuafydBcN3UUrosSm6I&s",
+                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE_5eqiw9q4N0_CbuOc8Q5hiRrTLsp0b7EgF3s8uu8&s",
+                "https://hips.hearstapps.com/hmg-prod/images/hawa-mahal-jaipur-india-royalty-free-image-484718881-1561471321.jpg",
+                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcrystalindiaholidays.com%2Fwhy-golden-triangle-tour-package-is-so-much-famous%2F&psig=AOvVaw2u9euZIfNcjif4i2vRZDNF&ust=1686818586706000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJCkhoqvwv8CFQAAAAAdAAAAABAE"
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Jaipur",
+                    "description": "Arrive at Jaipur airport and transfer to your hotel. Spend the day exploring the Pink City, visiting landmarks such as Amber Fort, City Palace, and Hawa Mahal. In the evening, explore the local markets and indulge in traditional Rajasthani cuisine. Overnight stay in Jaipur."
+                },
+                {
+                    "title": "Day 2: Jaipur City Tour",
+                    "description": "Embark on a full-day city tour of Jaipur. Visit Jantar Mantar, Jal Mahal, and Albert Hall Museum. Explore the vibrant bazaars and shop for handicrafts and textiles. Witness a mesmerizing sunset at Nahargarh Fort. Overnight stay in Jaipur."
+                },
+                {
+                    "title": "Day 3: Jodhpur Exploration",
+                    "description": "Drive to Jodhpur, the Blue City. Visit the majestic Mehrangarh Fort, Jaswant Thada, and Umaid Bhawan Palace. Explore the bustling streets of the old city and taste the local delicacies. Overnight stay in Jodhpur."
+                },
+                {
+                    "title": "Day 4: Jodhpur City Tour",
+                    "description": "Discover the rich heritage of Jodhpur with a city tour. Visit Mandore Gardens, Clock Tower, and Sardar Market. Experience the vibrant colors and traditions of Rajasthan. Overnight stay in Jodhpur."
+                },
+                {
+                    "title": "Day 5: Udaipur Arrival",
+                    "description": "Drive to Udaipur, the City of Lakes. Visit the enchanting Lake Pichola and enjoy a boat ride. Explore the magnificent City Palace and Jag Mandir. In the evening, witness a cultural dance performance. Overnight stay in Udaipur."
+                },
+                {
+                    "title": "Day 6: Udaipur Sightseeing",
+                    "description": "Embark on a full-day sightseeing tour of Udaipur. Visit the famous Saheliyon-Ki-Bari, Fateh Sagar Lake, and Jagdish Temple. Explore the narrow lanes of the old city and discover the traditional crafts and artwork. Overnight stay in Udaipur."
+                }
+            ],
+            "price": 14000,
+            "destination": "Delhi"
+        },
+        {
+            "id": 22,
+            "title": "Cultural Heritage Tour of Rajasthan",
+            "duration": "6 Nights / 8 Days",
+            "location": "Jaipur(2N) → Jodhpur(2N) → Udaipur(2N) → Pushkar(1N) → Jaipur(1N)",
+            "description": [
+                "Embark on a captivating journey through the cultural heritage of Rajasthan, India's vibrant state known for its magnificent forts, palaces, and rich traditions.",
+                "Immerse yourself in the opulent royal history, explore the charming cities, and witness the colorful traditions of Rajasthan."
+            ],
+            "image": [
+                "https://images.unsplash.com/photo-1559586616-361e18714958?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c2FoYXJhJTIwZGVzZXJ0fGVufDB8fDB8fHww&w=1000&q=80",
+                "https://www.shutterstock.com/image-photo/camel-desert-260nw-1334723237.jpg",
+                "https://media.istockphoto.com/id/805563154/photo/mehrangharh-fort-and-jaswant-thada-mausoleum-in-jodhpur-rajasthan-india.jpg?s=612x612&w=0&k=20&c=5r9UxPkz9mIkfAIFPLyTwqBQyqSO7mcAdQtcqGHOboA="
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Jaipur",
+                    "description": "Arrive at Jaipur airport and transfer to your hotel. Spend the day exploring the Pink City, visiting landmarks such as Amber Fort, City Palace, and Hawa Mahal. In the evening, explore the local markets and indulge in traditional Rajasthani cuisine. Overnight stay in Jaipur."
+                },
+                {
+                    "title": "Day 2: Jaipur City Tour",
+                    "description": "Embark on a full-day city tour of Jaipur. Visit Jantar Mantar, Jal Mahal, and Albert Hall Museum. Explore the vibrant bazaars and shop for handicrafts and textiles. Witness a mesmerizing sunset at Nahargarh Fort. Overnight stay in Jaipur."
+                },
+                {
+                    "title": "Day 3: Jodhpur Exploration",
+                    "description": "Drive to Jodhpur, the Blue City. Visit the majestic Mehrangarh Fort, Jaswant Thada, and Umaid Bhawan Palace. Explore the bustling streets of the old city and taste the local delicacies. Overnight stay in Jodhpur."
+                },
+                {
+                    "title": "Day 4: Jodhpur City Tour",
+                    "description": "Discover the rich heritage of Jodhpur with a city tour. Visit Mandore Gardens, Clock Tower, and Sardar Market. Experience the vibrant colors and traditions of Rajasthan. Overnight stay in Jodhpur."
+                },
+                {
+                    "title": "Day 5: Udaipur Arrival",
+                    "description": "Drive to Udaipur, the City of Lakes. Visit the enchanting Lake Pichola and enjoy a boat ride. Explore the magnificent City Palace and Jag Mandir. In the evening, witness a cultural dance performance. Overnight stay in Udaipur."
+                },
+                {
+                    "title": "Day 6: Udaipur Sightseeing",
+                    "description": "Embark on a full-day sightseeing tour of Udaipur. Visit the famous Saheliyon-Ki-Bari, Fateh Sagar Lake, and Jagdish Temple. Explore the narrow lanes of the old city and discover the traditional crafts and artwork. Overnight stay in Udaipur."
+                }
+            ],
+            "price": 25633,
+            "destination": "Rajasthan"
+        },
+        {
+            "id": 23,
+            "title": "Backwaters and Beaches Tour of Kerala",
+            "duration": "4 Nights / 5 Days",
+            "location": "Cochin(2N) → Alleppey(1N) → Kovalam(2N) → Varkala(2N)",
+            "description": [
+                "Experience the tranquil beauty of Kerala with the Backwaters and Beaches Tour. Explore the serene backwaters, relax on pristine beaches, and immerse yourself in the unique culture and natural wonders of 'God's Own Country'.",
+                "Cruise through the backwaters on a traditional houseboat, unwind on the golden sands, and rejuvenate with Ayurvedic therapies amidst picturesque surroundings."
+            ],
+            "image": [
+                "https://media.istockphoto.com/id/805563154/photo/mehrangharh-fort-and-jaswant-thada-mausoleum-in-jodhpur-rajasthan-india.jpg?s=612x612&w=0&k=20&c=5r9UxPkz9mIkfAIFPLyTwqBQyqSO7mcAdQtcqGHOboA=",
+                "https://www.shutterstock.com/image-photo/indian-cameleers-camel-driver-bedouin-260nw-1724207551.jpg",
+                "https://media.istockphoto.com/id/942152278/photo/gadisar-lake-at-jaisalmer-rajasthan-at-sunrise-with-ancient-temples-and-archaeological-ruins.jpg?s=612x612&w=0&k=20&c=HvhbHZ8HH_lAjAAI2pmqL4mUipyyAwy31qp5jjKQTO0="
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Cochin",
+                    "description": "Arrive at Cochin airport and transfer to your hotel. Spend the day exploring the historical city, visiting landmarks such as Fort Kochi, Chinese Fishing Nets, and Mattancherry Palace. In the evening, enjoy a Kathakali dance performance. Overnight stay in Cochin."
+                },
+                {
+                    "title": "Day 2: Cochin Sightseeing",
+                    "description": "Embark on a full-day sightseeing tour of Cochin. Visit St. Francis Church, Jew Town, and the famous spice markets of Mattancherry. Explore the vibrant streets and savor the local cuisine. Overnight stay in Cochin."
+                },
+                {
+                    "title": "Day 3: Backwater Cruise in Alleppey",
+                    "description": "Drive to Alleppey and embark on a memorable backwater cruise on a traditional houseboat. Sail through the scenic canals, witness the village life, and indulge in delicious Kerala cuisine prepared on board. Overnight stay on the houseboat."
+                },
+                {
+                    "title": "Day 4: Beaches of Kovalam",
+                    "description": "Drive to Kovalam, a serene beach destination. Spend the day relaxing on the golden sands, swimming in the clear waters, and rejuvenating with Ayurvedic treatments. Witness a breathtaking sunset at Kovalam Beach. Overnight stay in Kovalam."
+                },
+                {
+                    "title": "Day 5: Explore Kovalam",
+                    "description": "Visit the famous attractions of Kovalam, including the Lighthouse Beach, Hawa Beach, and Vizhinjam Rock Cut Cave Temple. Enjoy water sports activities and relish fresh seafood by the beach. Overnight stay in Kovalam."
+                },
+                {
+                    "title": "Day 6: Tranquil Varkala",
+                    "description": "Drive to Varkala, a serene coastal town. Relax on the pristine beaches, explore the iconic Varkala Cliff, and take a dip in the natural springs at Papanasam Beach. Witness a mesmerizing sunset over the Arabian Sea. Overnight stay in Varkala."
+                }
+            ],
+            "price": 19500,
+            "destination": "Rajasthan"
+        },
+        {
+            "id": 24,
+            "title": "Adventure Trekking in the Himalayas",
+            "duration": "10 Nights / 9Days",
+            "location": "Manali(3N) → Kasol(2N) → Tosh(2N) → Bir Billing(2N)",
+            "description": [
+                "Embark on an exhilarating adventure trekking expedition in the majestic Himalayas. Explore scenic trails, conquer high-altitude passes, and immerse yourself in the breathtaking beauty of nature.",
+                "Experience the thrill of trekking through picturesque landscapes, camping under starry skies, and encountering diverse flora and fauna along the way."
+            ],
+            "image": [
+                "https://static.toiimg.com/photo/93246451.cms",
+                "https://media.istockphoto.com/id/1284679139/photo/mountain-landscape-with-green-grass-meadows-scenic-camping-himalayas-peaks-alpine-from-the.jpg?s=612x612&w=0&k=20&c=HakKeu5JZYpVx-cEThJWXXKI3xWhbx1JIaiTXp2Q3BQ=",
+                "https://img.traveltriangle.com/blog/wp-content/uploads/2020/02/Valleys-In-Himachal-Pradesh-Cover.jpg",
+                "https://www.himachal.exploreindia.in/wordpress/wp-content/uploads/2013/05/hp1.jpg",
+                "https://c.ndtvimg.com/2023-04/vg4sohqo_atal-tunnel_625x300_19_April_23.jpg"
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Manali",
+                    "description": "Arrive in Manali and check into your hotel. Spend the day acclimatizing to the altitude and exploring the scenic beauty of Manali. Visit local attractions such as Hadimba Temple and Mall Road. Overnight stay in Manali."
+                },
+                {
+                    "title": "Day 2: Solang Valley Adventure",
+                    "description": "Embark on an adventurous day trip to Solang Valley. Indulge in thrilling activities like paragliding, zorbing, and skiing (depending on the season). Enjoy the breathtaking mountain views and capture memorable moments. Overnight stay in Manali."
+                },
+                {
+                    "title": "Day 3: Trek to Kasol",
+                    "description": "Begin your trek to Kasol, a charming village nestled in the Parvati Valley. Enjoy the scenic beauty and serenity of the surroundings. Explore the local market and savor delicious Himachali cuisine. Overnight stay in Kasol."
+                },
+                {
+                    "title": "Day 4-5: Tosh Trek",
+                    "description": "Embark on a multi-day trek to Tosh, a quaint village surrounded by snow-capped peaks. Trek through picturesque trails, cross gushing streams, and camp under the starlit sky. Explore the village and interact with the locals. Overnight stays in Tosh."
+                },
+                {
+                    "title": "Day 6-7: Bir Billing",
+                    "description": "Head towards Bir Billing, a renowned destination for paragliding. Experience the adrenaline rush as you glide through the skies and enjoy panoramic views of the Himalayan range. Visit monasteries, explore nature trails, and soak in the serene atmosphere. Overnight stays in Bir Billing."
+                }
+            ],
+            "price": 15000,
+            "destination": "Himachal Pradesh"
+        },
+        {
+            "id": 25,
+            "title": "Best of Gujarat : Temples, Statues and Wildlife",
+            "duration": "6 Nights / 7 Days",
+            "location": "Ahmedabad(1N) → Dwarka(2N) → Somnath(1N) → Sasan Gir(1N) → Vadodara(1N)",
+            "description": [
+                "Vadodara or Baroda is a cosmopolitan city located in Gujarat. Home to some of the most exemplary displays of architecture, Vadodara is a fitting memorial to Maratha leader Sayaji Rao Gaekwad III who had envisioned a dream to make this Big City an educational, industrial and commercial centre.",
+                "Known for one of the most lavish palaces in India- the Lakshmi Vilas Palace and plenty more legendary monuments, Vadodara is the cultural capital of Gujarat. With a prominent part of it being occupied by the Gujaratis, this place is the most sought after during the nine days of the Navratri festival. No city in India celebrates the festival of Navratri with as much zeal and exuberance as Vadodara does. It houses one of the premier universities of India- the Maharaja Sayajirao University."
+            ],
+            "image": [
+                "https://www.holidify.com/images/compressed/attractions/attr_1084.jpg",
+                "https://www.holidify.com/images/compressed/attractions/attr_38.jpg",
+                "https://www.holidify.com/images/cmsuploads/compressed/5129689068_118d671872_b_20170609164516.jpg",
+                "https://www.holidify.com/images/bgImages/SOMNATH.jpg",
+                "https://www.holidify.com/images/compressed/2487.jpg?v=1.1",
+                "https://www.holidify.com/images/cmsuploads/compressed/4350_20190906104805.jpg"
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Ahmedabad",
+                    "description": "Pick-up on arrival at Ahmedabad railway station or airport. Transfer to the hotel and check-in (standard check-in 12:00 noon) Ahmedabad sightseeing Visit Sabarmati Ashram, Adalaj Vav, and Akshardham Temple Overnight stay in Ahmedabad. (NOTE: Ahmedabad closed on Monday)"
+                },
+                {
+                    "title": "Day 2: Ahmedabad to Dwarka",
+                    "description": "After breakfast, proceed to Dwarka (450 Kms – 08/09 hours) On arrival check in to the hotel If time permits, visit Dwarkadhish Temple in the evening Overnight stay in Dwarka."
+                },
+                {
+                    "title": "Day 3: Dwarka Sightseeing",
+                    "description": "After breakfast, a sightseeing tour of Dwarka Visit Dwarkadhish Temple, Rukmani Mandir, Beyt Dwarka(Mul Dwarka), Nageshwer Temple (Jyotiling), Gopi Talav Overnight stay in Dwarka."
+                },
+                {
+                    "title": "Day 4: Dwarka to Somnath",
+                    "description": "After breakfast, proceed to Somnath (260 Kms - 6hours) En route visit Porbandar. At Porbandar visit Kirti Mandir and Sudama Mandir. On arrival in Somnath, check in to the hotel. If time permits, enjoy a light and sound show in Somnath at 7:00 PM (tentative time) Overnight stay in Somnath."
+                },
+                {
+                    "title": "Day 5: Somnath to Sasan Gir",
+                    "description": "After breakfast, check out from the hotel. Visit local Somnath Mandir, Bhalka Tirth, Gita Mandir, Triveni Sangam. Proceed to Sasan Gir (60 Kma - 90 minutes) On arrival check in to the hotel. Overnight stay in Sasan Gir."
+                },
+                {
+                    "title": "Day 6: Sasan Gir to Vadodara",
+                    "description": "In the early morning go for a Jeep safari in Main Jungle (at extra cost). After breakfast, check out from the hotel. Proceed to Vadodara (410 Kms - 8 hours) Visit the Lothal Archeology site (if interested) On arrival check in to the hotel. Overnight stay in Vadodara."
+                },
+                {
+                    "title": "Day 7: Departure",
+                    "description": "After breakfast, proceed to the Statue of Unity (100 Kms - 2 hours) at 7:30 AM (note: Statue of Unity closed on Monday) Visit the Statue of Unity from Viewing Gallery, Valley of Flowers, and Narmada dam viewing point. Proceed to Vadodara airport for your onward journey back home. Tour ends"
+                }
+            ],
+            "price": 22500,
+            "destination": "Gujarat"
+        },
+        {
+            "id": 16,
+            "title": "Bastar Tour Package Explore the Nature ",
+            "duration": "3 Nights / 4 Days",
+            "location": "Raipur(1N) → Jagdalpur(1N) → Dantwada(1N)",
+            "description": [
+                "Bastar is a district of Chhattisgarh State. The headquarters of Bastar district and Bastar division is Jagdalpur. It was  known as Dakshin Kaushal.",
+                "It is known for the beautiful forests and tribal culture,because of this it is called as the cultural capital of the state.",
+                " Spread over 6596.90 sq km, this district was once bigger than a state like Kerala and countries like Belgium, Israel. ",
+                "For the district to be systematically managed, two separate districts, Kanker and Dantewada, were constructed in 1999. It is surrounded by Kondagaon, Dantewada, Sukma and Bijapur .",
+                " The district headquarters Jagdalpur is located at a distance of 305 kilometers from the capital city Raipur."
+            ],
+            "image": [
+                "https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2018/09/2018092992-1.jpg",
+                "https://cdn.s3waas.gov.in/s324681928425f5a9133504de568f5f6df/uploads/2018/10/2018100591.jpg",
+                "https://1.bp.blogspot.com/-aq859SOQjxk/XdSOdkt6AnI/AAAAAAAAEbk/6ukCk9UJ7EsPF-tm7_GLAea_oPIDpbnqACEwYBhgL/w1200-h630-p-k-no-nu/Tourist%2BPlaces%2Bin%2BBastar.jpg",
+                "https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20190109174351/Chitrakote-Waterfalls-1.jpg",
+                "https://www.noblehousetours.com/wp-content/uploads/2017/06/bastar-chhattisgarh.jpg"
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrive at Raipur",
+                    "description": "On arrival at Raipur, you will be picked up from the airport/railway station.Transfer to the hotel and check in to the hotel.Afterwards, visit old haritage of Raipur.Later visit Naya Raipur and enjoy the sound & light show.In the evening, return to the hotel.Overnight stay at Raipur."
+                },
+                {
+                    "title": "Day 1: Jagdalpur Sightseeing",
+                    "description": "After breakfast, proceed for sightseeing in Jagdalpur. Visit Barsoor, Danteshwari Temple,Chitrkoot waterfall. Overnight stay in Jagdalpur."
+                },
+                {
+                    "title": "Day 3: Jagdalpur to Dantewada",
+                    "description": "After breakfast, check out from the hotel. Visit  Museum, Viewing Gallery, Local Trible Market, and Kuubsar Cave. Enjoy Coutriside Stay with live folk Bastar band and authentic Foods . Drive to Jagdalpur. On arrival in Jagdalpur, check in to the hotel. Overnight stay at Jagdalpur."
+                },
+                {
+                    "title": "Day 4: Departure",
+                    "description": "After breakfast,spend the time at leisure or go shopping. In the evening, transfer to Raipur Airport or railway station for your onward journey back home."
+                }
+            ],
+            "price": 14500,
+            "destination": "Rajasthan"
+        },
+        {
+            "id": 17,
+            "title": "Heritage Walk Tour with BhoramDev",
+            "duration": "3 Nights / 2 Days",
+            "location": "Bhoramdev(3N) → Kanaha National Park(1N)",
+            "description": [
+                "Bhoramdeo a thousand year old temple situated in Chouragaon is 18 km from Kawardha in Kabirdham district of Chhattisgarh and 125 Km from Raipur .",
+                " this temple is dedicated to Lord Shiva. The temple is artificially situated between the mountain ranges, it was built during the period from 7th to 11th century.",
+                " There is a glimpse of the Khajuraho temple in the temple here, hence this temple is also called “Khajuraho of Chhattisgarh”."
+            ],
+            "image": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEi3DQdel21foG8IY-F7M8djE9kir5IfzwtivgoHnWafr8i06CSn4KNJJdnYr-3NGsu_IRXcesGTA9qx60sxmwgUSyIhS5GO6nYiMoDHAH95ZamnIF73Mdxt5rrq_qskbMG5Ji7caRdxjrGrrftPKgtZ_e6Hum6SSrhEz1wQQ5cDNjtWgagPicSMzW-S=w1200-h630-p-k-no-nu",
+                "https://www.santrip.net/wp-content/uploads/2020/07/bhoramdeo.jpg",
+                "https://www.pugdundeesafaris.com/blog/wp-content/uploads/2017/06/Kanha-National-Park.jpg",
+                "https://www.kanha-national-park.com/blog/wp-content/uploads/2018/01/Kanha-National-Park.jpg",
+                "https://www.trawell.in/admin/images/upload/145067964Kanha_Safari_Main.jpg"
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Raipur",
+                    "description": "On arrival at Raipur airport/railway station, 100 KM drive to Kawardha(kabirdham) . In the evening, enjoy some sightseeing and shopping. Visit the OLd Mahal. Overnight stay at Kawardha."
+                },
+                {
+                    "title": "Day 2: Heritage Walk",
+                    "description": "After breakfast, drive to Bhoramdev through Chilfi Ghathi . Visit the Bhoramdev Temple , Overnight stay at Chilfi."
+                },
+                {
+                    "title": "Day 3: Kanah NAtional Park Jungle Safari",
+                    "description": "After breakfast, check out from the hotle and drive to Kanha National Park. Enjoy the Jungle Safari At Kanha. In the afternoon, drive to MUkki Gate. On arrival in Mukki Gate, check in to the hotel. Overnight stay at Mukki Gate."
+                },
+                {
+                    "title": "Day 4: Departure",
+                    "description": "After breakfast, check out from the hotel and drive to Raipur. On the way, visit the famous Lakshman Mandir. On arrival at Raipur, transfer to the airport/railway station for your onward journey back home."
+                }
+            ],
+            "price": 24633,
+            "destination": "Chhattisgarh"
+        },
+        {
+            "id": 18,
+            "title": "Barnawapara Wildlife Sanctuary",
+            "duration": "1 Nights / 1 Days",
+            "location": "Barnawapara (1N) → Raipur(1D)",
+            "description": [
+                " Lying on a flat and terrain area, the sanctuary gives shelter to number of Tigers, leopards, porcupine, pythons, antelopes, bison and many other species.",
+                " As you walk in through the muddy paths, parrots, herons, egrets, black bucks, porcupines, monkeys, pea fowl and other species are sure to catch your attention, and you are sure to get surprised by seeing the barking deers. "
+            ],
+            "image": [
+                "https://images.thrillophilia.com/image/upload/s--azAkJZxT--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/103/304/original/1479388363_Barnawapara-wildlife-sanctuary-4.jpg.jpg",
+                "https://www.tourmyindia.com/blog//wp-content/uploads/2014/09/Barnawapara-Wildlife-Sanctu.jpg",
+                "https://d27k8xmh3cuzik.cloudfront.net/wp-content/uploads/2015/12/diu.jpg",
+                "https://chhattisgarhtourism.co.in/barnawapara-wildlife-sanctuary-chhattisgarh.html",
+                "https://www.gosahin.com/go/p/i/1563697293_laxman-temple-sirpur1.jpg"
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Raipur",
+                    "description": "On arrival at Raipur airport/railway station, 60 KM drive to Sirpur . In the evening, enjoy some sightseeing and shopping. Visit the OLd Mahal. Overnight stay at Kawardha."
+                },
+                {
+                    "title": "Day 4: Departure",
+                    "description": "After breakfast, check out from the hotel and drive to Raipur. On the way, visit the famous Lakshman Mandir. On arrival at Raipur, transfer to the airport/railway station for your onward journey back home."
+                }
+            ],
+            "price": 12000,
+            "destination": "Chhattisgarh"
+        },
+        {
+            "id": 19,
+            "title": "Panch Koshi Yatra",
+            "duration": "1 Nights / 1 Days",
+            "location": "Raipur(1N) → Rajim(1N)",
+            "description": [
+                "The temple consists of twelve pillars, each of the pillars are beautifully carved with figures of various God and Goddess like – Lord Vishnu, Lord Rama, Lord Narasimha and Goddess Durga.",
+                " Standing at the congregation of three rivers – Pairy, Sondhu and Mahanadi, the temple impresses its tourists with its main design made of Chaitya arch wooden motif. If you observe closely you can also make out that the shrine entrance has been adorned with the sculptures of Snake Goddess."
+            ],
+            "image": [
+                "https://images.thrillophilia.com/image/upload/s--tFlScI2O--/c_fill,g_center,h_450,q_auto,w_753/dpr_1.0,f_auto,fl_strip_profile/v1/images/photos/000/103/299/original/1479387792_rajiv_lochan.jpg.jpg",
+                "https://cdn.s3waas.gov.in/s3f033ab37c30201f73f142449d037028d/uploads/2018/05/2018052697.jpg",
+                "https://media-cdn.tripadvisor.com/media/photo-s/0e/65/9b/a0/ghatarani-jatmai-raipur.jpg",
+                "https://www.chhattisgarhtourism.in/img1/Rajim/002.jpg"
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Raipur",
+                    "description": "On arrival at Raipur airport/railway station, 60 KM drive to Rajim . In the evening, enjoy some sightseeing and shopping. Visit the OLd Mahal. Overnight stay at Kawardha."
+                },
+                {
+                    "title": "Day 2: Departure",
+                    "description": "After breakfast, check out from the hotel and drive to Raipur. On the way, visit the famous Jatmai Temple. On arrival at Raipur, transfer to the airport/railway station for your onward journey back home."
+                }
+            ],
+            "price": 10000,
+            "destination": "Chhattisgarh"
+        },
+        {
+            "id": 20,
+            "title": "Ratanpur The Old Capital Of Dakshin Kaushal",
+            "duration": "1 Nights / 2 Days",
+            "location": "Raipur(1N) → Bilaspur(1N) → Ratanpur(1N)",
+            "description": [
+                "Bilaspur – 25 km on Korba main road The ancient and glorious history of the holy mythological city of Ratanpur is the Adishakti Mahamaya Devi situated on the banks of the river.",
+                " Kalchurio of Tripuri made Ratanpur its capital and extended it for a long time. I ruled. It is also called Chaturugi Nagri.",
+                " Which means that its existence has existed in four eras. Raja Ratnadeva I settled in the name of Ratanpur."
+            ],
+            "image": [
+                "https://www.cgpsc.info/wp-content/uploads/2022/11/satrenga.png",
+                "https://1.bp.blogspot.com/-Het7SwgwLlY/X7dB-fpkeYI/AAAAAAAAD6E/NBXlV6leffAEWTOmOo1AzcCQ5LvJLONoACNcBGAsYHQ/s1024/Mahamaya-Temple-Ratanpur-2.png",
+                "https://img.naidunia.com/naidunia/ndnimg/18092021/18_09_2021-17rsk1.jpg",
+                "https://www.holidify.com/images/bgImages/SOMNATH.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/0010722_11th_century_Ratanpur_Mahamaya_Temple_Chhattisgarh_051.jpg/640px-0010722_11th_century_Ratanpur_Mahamaya_Temple_Chhattisgarh_051.jpg"
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Raipur / Bilaspur",
+                    "description": "On arrival at Raipur airport/railway station, 225 KM drive to Ratanpur . In the evening, enjoy some sightseeing and shopping. Visit the OLd Mahal. Overnight stay at Ratanpur."
+                },
+                {
+                    "title": "Day 2: Departure",
+                    "description": "After breakfast, check out from the hotel and drive to Raipur. On the way, visit the famous Mahamaya Temple Temple. On arrival at Raipur, transfer to the airport/railway station for your onward journey back home."
+                }
+            ],
+            "price": 9000,
+            "destination": "Chhattisgarh"
+        },
+        {
+            "id": 11,
+            "title": "Ajanta and Ellora Tour",
+            "duration": "3 Nights / 4 Days",
+            "location": "Aurangabad(3N) → Mumbai(1N)",
+            "description": [
+                "Explore the ancient caves of Ajanta and Ellora, a UNESCO World Heritage site",
+                "Visit the Bibi Ka Maqbara, also known as the mini Taj Mahal",
+                "Experience the bustling city of Mumbai"
+            ],
+            "image": [
+                "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/be/eb/fc.jpg",
+                "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/71/ad/ca.jpg",
+                "https://www.holidify.com/images/cmsuploads/compressed/Bodhi_Ajanta_20190330134054.jpg",
+                "https://wp.hindi.scoopwhoop.com/wp-content/uploads/2022/07/62bed608b7a8930001693796_0181ede2-451a-4be1-9149-65329b9105fa.jpg",
+                "https://theheritageart.com/wp-content/uploads/2022/11/gateway-of-india.jpeg"
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Aurangabad",
+                    "description": "On arrival at Aurangabad railway station, transfer to the hotel. Enjoy the rest of the day at leisure. Overnight stay in Aurangabad."
+                },
+                {
+                    "title": "Day 2: Ajanta Caves",
+                    "description": "After breakfast, visit the Ajanta Caves, a UNESCO World Heritage site. In the evening, return to the hotel. Overnight stay in Aurangabad."
+                },
+                {
+                    "title": "Day 3: Ellora Caves and Bibi Ka Maqbara",
+                    "description": "After breakfast, visit the Ellora Caves, another UNESCO World Heritage site. Then, visit the Bibi Ka Maqbara, also known as the mini Taj Mahal. In the evening, return to the hotel. Overnight stay in Aurangabad."
+                },
+                {
+                    "title": "Day 4: Mumbai",
+                    "description": "After breakfast, check out from the hotel and drive to Mumbai. On arrival in Mumbai, check in to the hotel. In the afternoon, visit the Gateway of India and Marine Drive. Overnight stay in Mumbai."
+                },
+                {
+                    "title": "Day 5: Departure",
+                    "description": "After breakfast, check out from the hotel and transfer to the railway station for your onward journey back home."
+                }
+            ],
+            "price": 19999,
+            "destination": "Maharashtra"
+        },
+        {
+            "id": 12,
+            "title": "Mahabaleshwar Tour",
+            "duration": "2 Nights / 3 Days",
+            "location": "Mahabaleshwar(2N)",
+            "description": [
+                "Experience the scenic beauty of Mahabaleshwar, a hill station in the Western Ghats",
+                "Visit the famous viewpoints of Mahabaleshwar, including Wilson Point, Kate's Point, and Arthur's Seat",
+                "Enjoy boating in Venna Lake and explore the Pratapgad Fort"
+            ],
+            "image": [
+                "https://www.tourmyindia.com/blog//wp-content/uploads/2018/12/Wilson-Point.jpg",
+                "https://www.trawell.in/blog/wp-content/uploads/2021/06/Main_Image-11-730x410.jpg",
+                "https://mahabaleshwartourism.in/images/places-to-visit/headers/venna-lake-mahabaleshwar-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+                "https://image3.mouthshut.com/images/imagesp/925752521s.jpg"
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Mahabaleshwar",
+                    "description": "On arrival at Mahabaleshwar, check in to the hotel. Enjoy the rest of the day at leisure. Overnight stay in Mahabaleshwar."
+                },
+                {
+                    "title": "Day 2: Sightseeing in Mahabaleshwar",
+                    "description": "After breakfast, visit the famous viewpoints of Mahabaleshwar, including Wilson Point, Kate's Point, and Arthur's Seat. In the afternoon, enjoy boating in Venna Lake. Overnight stay in Mahabaleshwar."
+                },
+                {
+                    "title": "Day 3: Pratapgad Fort",
+                    "description": "After breakfast, check out from the hotel and visit the historic Pratapgad Fort. In the evening, transfer to the railway station for your onward journey back home."
+                }
+            ],
+            "price": 9999,
+            "destination": "Maharashtra"
+        },
+        {
+            "id": 13,
+            "title": "Kokan Beach Tour",
+            "duration": "4 Nights / 5 Days",
+            "location": "Mumbai → Alibaug(2N) → Murud(2N)",
+            "description": [
+                "Explore the beautiful beaches of Kokan, including Alibaug and Murud",
+                "Enjoy water sports activities like banana boat ride, jet ski, and parasailing",
+                "Visit the historic Janjira Fort and the Phansad Wildlife Sanctuary"
+            ],
+            "image": [
+                "https://www.trawell.in/blog/wp-content/uploads/2021/11/Nagaon_Beach_Main.jpg",
+                "https://static2.tripoto.com/media/filter/nl/img/338308/TripDocument/1521972719_dsc0280.jpg",
+                "https://www.seawatersports.com/img/newimage/places/murud-janjira.jpg",
+                "https://images.thrillophilia.com/image/upload/s--nUjYWBO_--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/242/319/original/1588060064_phansad1.jpg.jpg?1588060064",
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2019/11/Scuba-Diving_20th-nov1.jpg"
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Mumbai",
+                    "description": "On arrival at Mumbai airport/railway station, transfer to Alibaug. Check in to the hotel and enjoy the rest of the day at leisure. Overnight stay in Alibaug."
+                },
+                {
+                    "title": "Day 2: Alibaug Beach",
+                    "description": "After breakfast, visit the Alibaug Beach and enjoy water sports activities like banana boat ride, jet ski, and parasailing. In the evening, return to the hotel. Overnight stay in Alibaug."
+                },
+                {
+                    "title": "Day 3: Janjira Fort and Murud Beach",
+                    "description": "After breakfast, check out from the hotel and drive to Murud. On the way, visit the historic Janjira Fort. In the afternoon, visit the Murud Beach. Overnight stay in Murud."
+                },
+                {
+                    "title": "Day 4: Phansad Wildlife Sanctuary",
+                    "description": "After breakfast, visit the Phansad Wildlife Sanctuary and enjoy a jungle safari. In the evening, return to the hotel. Overnight stay in Murud."
+                },
+                {
+                    "title": "Day 5: Departure",
+                    "description": "After breakfast, check out from the hotel and transfer to Mumbai railway station for your onward journey back home."
+                }
+            ],
+            "price": 9999,
+            "destination": "Maharashtra"
+        },
+        {
+            "id": 14,
+            "title": "Tadoba-Andhari Tiger Reserve Safari",
+            "duration": "3 Nights / 4 Days",
+            "location": "Nagpur → Tadoba-Andhari Tiger Reserve(3N)",
+            "description": [
+                "Explore the Tadoba-Andhari Tiger Reserve and spot tigers in their natural habitat",
+                "Enjoy a jungle safari and bird watching in the reserve",
+                "Visit the nearby attractions like Moharli, Kolara, and Khutwanda Gate"
+            ],
+            "image": [
+                "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/57/e1/97/tadoba-andhari-tiger.jpg?w=1200&h=-1&s=1",
+                "https://static.toiimg.com/photo/98246890/Beautiful-forest-inside-Tadoba-Andhari-National-Park.jpg?width=748&resize=4",
+                "https://www.waghobaecolodge.com/images/bird-photography-in-tadoba.jpg",
+                "https://hblimg.mmtcdn.com/content/hubble/img/tadoba/mmt/activities/m_Andhari%20Tiger%20Reserve-5_l_394_526.jpg",
+                "https://qph.cf2.quoracdn.net/main-qimg-1be2174e2b468b9fed872a1f7017b146-pjlq"
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Nagpur",
+                    "description": "On arrival at Nagpur airport/railway station, drive to Tadoba-Andhari Tiger Reserve. Check in to the resort and enjoy the rest of the day at leisure. Overnight stay in Tadoba."
+                },
+                {
+                    "title": "Day 2: Tadoba Jungle Safari",
+                    "description": "After breakfast, enjoy a jungle safari in the Tadoba-Andhari Tiger Reserve and spot tigers, leopards, and other wildlife species in their natural habitat. In the afternoon, visit the nearby attractions like Moharli, Kolara, and Khutwanda Gate. Overnight stay in Tadoba."
+                },
+                {
+                    "title": "Day 3: Bird Watching",
+                    "description": "After breakfast, go for bird watching in the reserve and spot a variety of bird species. In the evening, return to the resort. Overnight stay in Tadoba."
+                },
+                {
+                    "title": "Day 4: Departure",
+                    "description": "After breakfast, check out from the resort and transfer to Nagpur railway station for your onward journey back home."
+                }
+            ],
+            "price": 14999,
+            "destination": "Maharashtra"
+        },
+        {
+            "id": 15,
+            "title": "Alibaug Beach Camping",
+            "duration": "1 Night / 2 Days",
+            "location": "Mumbai → Alibaug(1N)",
+            "description": [
+                "Enjoy camping on the beautiful Alibaug Beach",
+                "Experience a bonfire and BBQ on the beach",
+                "Enjoy water sports activities like banana boat ride, jet ski, and parasailing"
+            ],
+            "image": [
+                "https://images.thrillophilia.com/image/upload/s--YLfYZ5AS--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/178/696/original/1573631654_1549542978_IMG-20190206-WA0026.jpg.jpg.jpg?1573631654",
+                "https://images.thrillophilia.com/image/upload/s--916q6TLs--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/178/689/original/1573631650_1553511209_1527059990_20180310180816_IMG_2678.JPG.jpg.jpg.jpg?1573631650",
+                "https://images.thrillophilia.com/image/upload/s--qU54kaSh--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/178/691/original/1573631651_1527058819_IMG_20171101_143346.jpg.jpg.jpg?1573631651",
+                "https://images.thrillophilia.com/image/upload/s--36VWC6Ka--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/178/697/original/1573631654_1549542977_IMG-20190206-WA0031.jpg.jpg.jpg?1573631654",
+                "https://images.thrillophilia.com/image/upload/s--CGaUnblK--/c_fill,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/178/692/original/1573631651_1549542979_IMG-20190206-WA0003.jpg.jpg.jpg?1573631651",
+                "https://logout.world/media/event/1207/0vpvp1287bliuollamydfykldgv2-fhry_XIEYBmE.jpg"
+            ],
+            "tour": [
+                {
+                    "title": "Day 1: Arrival in Alibaug",
+                    "description": "On arrival at Mumbai, drive to Alibaug and check in to the beach camp. Enjoy water sports activities like banana boat ride, jet ski, and parasailing. In the evening, experience a bonfire and BBQ on the beach. Overnight stay at the camp."
+                },
+                {
+                    "title": "Day 2: Departure",
+                    "description": "After breakfast, check out from the camp and transfer to Mumbai railway station for your onward journey back home."
+                }
+            ],
+            "price": 3999,
+            "destination": "Maharashtra"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Anburaj",
+            "email": "anburaj@travelo.com",
+            "password": "anburaj@travelo",
+            "phone": "987654321",
+            "address": "Madurai",
+            "state": "Tamilnadu",
+            "country": "India"
+        },
+        {
+            "id": 2,
+            "name": "Abhijit",
+            "email": "abhijit@member.com",
+            "password": "bhijit@member",
+            "phone": "987654321",
+            "address": "Mumbai",
+            "state": "Mumbai",
+            "country": "India"
+        },
+        {
+            "id": 3,
+            "name": "Piyush",
+            "email": "piyush@member.com",
+            "password": "piyush@member",
+            "phone": "987654321",
+            "address": "Chattirgarh",
+            "state": "Chattirgarh",
+            "country": "India"
+        },
+        {
+            "id": 4,
+            "name": "Alka",
+            "email": "alka@member.com",
+            "password": "alka@member",
+            "phone": "987654321",
+            "address": "Chattirgarh",
+            "state": "Chattirgarh",
+            "country": "India"
+        },
+        {
+            "id": 5,
+            "name": "Ashutosh",
+            "email": "ashutosh@member.com",
+            "password": "hAshutosh@member",
+            "phone": "987654321",
+            "address": "Ahmedabad",
+            "state": "Gujarat",
+            "country": "India"
+        }
+    ],
+    "login": [
+        {
+            "id": 1,
+            "username": "admin",
+            "password": "admin",
+            "email": "admin@admin.com"
+        },
+        {
+            "id": 2,
+            "username": "alka",
+            "password": "alka@admin",
+            "email": "alka@admin.com"
+        },
+        {
+            "id": 3,
+            "username": "piyush",
+            "password": "piyush@admin",
+            "email": "piyush@admin.com"
+        },
+        {
+            "id": 4,
+            "username": "Ashutosh",
+            "password": "ashutosh@admin",
+            "email": "ashutosh@admin.com"
+        },
+        {
+            "id": 5,
+            "username": "Abhijit",
+            "password": "abhijit@admin",
+            "email": "abhijit@admin.com"
+        }
+    ],
+    "sales": [
+        {
+            "id": 1,
+            "package_name": "Wildlife & Beach of Gujarat: Gir with Diu Tour",
+            "bill": 39000,
+            "name": "Alka",
+            "email": "alka@admin.com",
+            "tourdate": "2023-07-10",
+            "timestamp": "Mon June 19 2023 02:09:40 GMT+0530 (India Standard Time)"
+        },
+        {
+            "id": 2,
+            "package_name": "Kerala Delight Tour Package",
+            "bill": 29000,
+            "name": "Anburaj",
+            "email": "anburaj@travelo.com",
+            "tourdate": "2023-07-15",
+            "timestamp": "Tue June 20 2023 02:09:40 GMT+0530 (India Standard Time)"
+        },
+        {
+            "id": 3,
+            "package_name": "Heritage Walk Tour with BhoramDev",
+            "bill": 73999,
+            "name": "Piyush",
+            "email": "piyush@admin.com",
+            "tourdate": "2023-07-19",
+            "timestamp": "Sun June 18 2023 02:09:40 GMT+0530 (India Standard Time)"
+        },
+        {
+            "id": 4,
+            "package_name": "Panch Koshi Yatra",
+            "bill": 80000,
+            "name": "Abhijit",
+            "email": "abhijit@member.com",
+            "tourdate": "2023-07-27",
+            "timestamp": "Tue June 20 2023 02:09:40 GMT+0530 (India Standard Time)"
+        },
+        {
+            "id": 5,
+            "package_name": "Ajanta and Ellora Tour",
+            "bill": 99995,
+            "name": "Ashutosh",
+            "email": "ashutosh@member.com",
+            "tourdate": "2023-07-21",
+            "timestamp": "Tue June 20 2023 02:09:40 GMT+0530 (India Standard Time)"
+        }
+    ],
+    "activities": [
+        {
+            "id": 1,
+            "category": "trecking",
+            "title": "Matheran, Maharashtra - Cutest little hill-station of India",
+            "rating": "4.3/5",
+            "duration": "1 or 2 days",
+            "destination": "Matheran",
+            "location": "Maharastra , India",
+            "speciality": "Louisa point  Charlotte lake  Monkey Point Matheran",
+            "description": "Nestled amidst the Sahyadri range on the Western Ghats, Matheran is a cosy little hill station that stands at an elevation of 2600 feet above sea level, and is just 100 kilometres away from Mumbai. Matheran is the smallest hill station in all of India, but it is extremely popular in terms of tourists looking for a short trip amid spectacular vistas and serenity.",
+            "time": "Throughout the year",
+            "image": [
+                "https://images.thrillophilia.com/image/upload/s--FW_IozHc--/c_fill,g_auto,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/075/368/original/1602684441_shutterstock_783793615.jpg.jpg",
+                "https://www.holidify.com/images/compressed/877.jpg?v=1.1",
+                "https://www.holidify.com/images/compressed/878.jpg?v=1.1",
+                "https://www.holidify.com/images/compressed/879.jpg?v=1.1",
+                "https://www.holidify.com/images/compressed/880.jpg?v=1.1"
+            ]
+        },
+        {
+            "id": 2,
+            "category": "trecking",
+            "title": "Plan Your Trip To Rajmachi",
+            "rating": "4.2/5",
+            "duration": "1 day",
+            "destination": "Rajmachi",
+            "location": "Maharastra , India",
+            "speciality": "Trekking in Rajmachi",
+            "description": "Rajmachi is a small village situated in the Sahyadri mountain range of the Konkan region of Maharashtra. Rajmachi has two fortified peaks - Shrivardhan and Manaranjan forts, located near two famous hills of Lonavala and Khandala.",
+            "time": " June to September",
+            "image": [
+                "https://www.holidify.com/images/bgImages/RAJMACHI.jpg",
+                "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_1607038228_20200320105605.jpg",
+                "https://www.holidify.com/images/compressed/dest_wiki_13489.jpg",
+                "https://www.holidify.com/images/compressed/2604.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "category": "trecking",
+            "title": "Plan Your Trip To Suryamal",
+            "rating": "3.5/5",
+            "duration": "1 day",
+            "destination": "Suryamal",
+            "location": "Maharastra , India",
+            "speciality": " Trekking in Suryamal,Suryamal Peak",
+            "description": "Suryamal is the highest peak of the region, located in Thane district of Maharashtra. The small but beautiful hill is a popular place among people for the sheer breathtaking views that it can be seen from the hilltop.",
+            "time": "Sep-May",
+            "image": [
+                "https://www.holidify.com/images/bgImages/SURYAMAL.jpg",
+                "https://www.holidify.com/images/compressed/dest_wiki_15417.jpg",
+                "https://www.holidify.com/images/compressed/dest_wiki_15413.jpg",
+                "https://www.holidify.com/images/compressed/dest_wiki_15407.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "category": "trecking",
+            "title": "Plan Your Trip To Ratanwadi",
+            "rating": "5.0/5",
+            "duration": "1 day",
+            "destination": "Ratanwadi",
+            "location": "Maharastra , India",
+            "speciality": "Trekking in Ratanwadi , Ratangad Fort Trek , Amruteshwar Temple",
+            "description": "Ratanwadi is a village near Bhandardara of the Kalsubai peak in Maharashtra. It houses the famous Ratangad fort and the popular Shiva temple called Amruteshwar. It is a famous trekking spot as it is far from the main town and has a rustic charm to it.",
+            "time": "September to May",
+            "image": [
+                "https://www.holidify.com/images/bgImages/RATANWADI.jpg",
+                "https://www.holidify.com/images/compressed/2526.jpg?v=1.1",
+                "https://www.holidify.com/images/compressed/323.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "category": "scubadiving",
+            "title": "Andaman: The Deep Blue Side",
+            "rating": "4.0/5",
+            "duration": "60",
+            "destination": "Andaman",
+            "location": "The Wall, Havelock and Dixon's Pinnacle",
+            "speciality": "The Scuba Diving Organisers offer certified training courses for beginners, advance level, professionals and rescue divers. The professional and rescue divers are trained after sunset.",
+            "description": "The vibrant under water life of the Bay of Bengal offers an ideal backdrop for scuba diving in Andaman. The amazing corals and pristine coral reefs make an ideal scenario for this fun activity and Andaman is said to be the best place for scuba diving in India. You may meet Turtles, moray eels, manta rays, trevally and batfish on your way.",
+            "time": "November to mid April. The fun diving trips are mostly during morning hours.",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2015/09/Scuba-Diving-in-Andaman.jpg"
+            ],
+            "price": "10000"
+        },
+        {
+            "id": 6,
+            "category": "scubadiving",
+            "title": " Lakshadweep: Underwater Delight",
+            "rating": "4.3/5",
+            "duration": "25",
+            "destination": "Lakshadeep",
+            "location": "Princess Royal, Lost Paradise, Dolphin Reef, ClassRoom, Fish Soup and Manta Point",
+            "speciality": " A war ship sank during a battle between France and England, 200 years ago near the diving spot of Princess Royal in Bangaram. Which means while enjoying Scuba, you may find traces of cannons, potteries and shipwrecks. How exciting!",
+            "description": "For best scuba diving in India places include Lakshadweep. Scuba diving in Lakshadweep is both thrilling and daring. It is a lifetime experience to spend time in the blue transparent lagoons and coves with manta rays, turtle, vibrant fishes and shark and whale occasionally.",
+            "time": "November to mid April. The fun diving trips are mostly during morning hours.",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2015/09/Scuba-Diving-in-Lakshadweep.jpg"
+            ],
+            "price": "5000"
+        },
+        {
+            "id": 7,
+            "category": "scubadiving",
+            "title": "Pondicherry: Underwater Break At Pristine Island",
+            "rating": "4.2/5",
+            "duration": "45",
+            "destination": "Pondicherry",
+            "location": "Cool Shark Reef, Aravind's Wall, Temple Reef, 4 Corners, Ravines and The Hole",
+            "speciality": " Swimming is not a prerequisite for induction sessions of scuba but if someone can swim up to 200m, he/she can become a licensed diver.",
+            "description": "The only diving spot in India's eastern coast is in Pondicherry. The place is characterised by natural coral reefs, rocky pop-ups, man-made ridges and large plethora of marine organisms like jack fish, sea snake, manta rays and fan corals. It is a perfect scuba destination for beginners and professionals and is said to be one of the best scuba diving in India places.",
+            "time": "February to April and September to November. We are afraid that's the peak season too!",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2015/09/Scuba-Diving-in-Pondicherry.jpg"
+            ],
+            "price": "6500"
+        },
+        {
+            "id": 8,
+            "category": "scubadiving",
+            "title": " Kovalam In Kerala: A Unique Experience In God’s Own Country",
+            "rating": "4.6/5",
+            "duration": "45",
+            "destination": "Kerala",
+            "location": " Lighthouse Beach, Hawah Beach",
+            "speciality": " Kovalam is emerging as the top places for scuba diving in India",
+            "description": "Kovalam in Kerala is rapidly becoming famous amongst tourists for scuba diving. A company called Bond Safari that uses an underwater scooter has brought this treat to the beaches in Kovalam. The water is clean and offers a glimpse into a rich sea-life with lots of sea and creatures. Kovalam is one of the most unique scuba diving destinations in India. ",
+            "time": " September to February is a good time to indulge in water activities like Scuba diving in Kovalam",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2015/09/scuba-diving-in-kovalam-e1563366560863.jpg"
+            ],
+            "price": "6500"
+        },
+        {
+            "id": 9,
+            "category": "paragliding",
+            "title": "Bir Billing: Best Paragliding In India",
+            "rating": "4.0/5",
+            "duration": "45",
+            "destination": "Dharamshala",
+            "location": "The nearest airport to Bir is in Dharamshala. You can also reach Bir from Delhi through Volvo and other buses",
+            "description": "Bir Billing offers best paragliding in India. This is a small village in Himachal Pradesh, famed for hosting the first ever world cup for paragliding. Himachal, actually, is ‘the’ home to paragliding places in India. With a total of 11 best paragliding spots, this hilly state offers multiple options. Other places famous for paragliding in Himachal are Devidhar, Parvati Valley, Rohtang, and Bakhli.",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2019/03/Paragliding-In-Bir-Billing_22nd-oct.jpg"
+            ],
+            "price": "2500"
+        },
+        {
+            "id": 10,
+            "category": "paragliding",
+            "title": "Manali: Paragliding In Himachal",
+            "rating": "4.2/5",
+            "duration": "45",
+            "destination": "Manali",
+            "location": "The nearest airport to Manali is in Bhuntar located at a distance of 50 Km. You can also reach Manali via train",
+            "description": "The other famous destination for paragliding in Himachal is Manali. Except for the monsoons season, you can try paragliding here anytime. Solang Valley and Marhi are two of the most popular spots for paragliding in Manali. Among the reasons which make Manali one of the most preferred paragliding places in India is the availability of the sport through the year except monsoon. This is one of the famous paragliding places in India.",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2015/09/Manali-Solang-Valley.jpg"
+            ],
+            "price": "1500"
+        },
+        {
+            "id": 11,
+            "category": "paragliding",
+            "title": " Bangalore: Glide Over Silicon Valley",
+            "rating": "4.0/5",
+            "duration": "45",
+            "destination": "Bangalore",
+            "location": "The Bangalore International airport connects the city to other parts of India. Bangalore is also well connected to other Indian cities via road and rail",
+            "description": "Besides streets full of gaming cafes, Silicon Valley has lately gained up on this adventure sport. Hoskote Lake, 20 km away from the main city, houses some operators who offer training for paragliding in Bangalore. At 65 km from the town, Nandi hills is another hub of paragliding which is at a height of 1478 m above sea level. A lot of people prefer going for paragliding in Nandi Hills, India. The adventurers can also go for para-jumping and hang-gliding.",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2019/12/Paragliding.jpeg"
+            ],
+            "price": "1800"
+        },
+        {
+            "id": 12,
+            "category": "paragliding",
+            "title": "Panchgani: Majestic Sunsets",
+            "rating": "4.8/5",
+            "duration": "45",
+            "destination": "Panchgani",
+            "location": "Panchgani can be reached via rail, road and airways. But the best way is railways with the nearest station being in Pune, 96 Km away. The remaining distance can be covered by road in a taxi",
+            "description": "Panchgani, a town near the famous pilgrimage of Mahabaleshwar,is commonly frequented by honeymooners. Paragliding from the Horizon point gives you a bird’s eye view of the temple town as well as the serene scenes of the quaint hills. Planning a trip already? Head to Panchgani soon and enjoy a flight in the sky.",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2015/09/Paragliding-in-Panchgani.jpg"
+            ],
+            "price": "2800"
+        },
+        {
+            "id": 13,
+            "category": "historical",
+            "title": " Taj Mahal, Agra",
+            "rating": "4.8/5",
+            "duration": " 30 Minutes before sunrise and closes 30 Minutes before sunset",
+            "destination": "Agra",
+            "description": "Discover Red Fort in Delhi which is one of the famous places in India. Meet the boss of Indian historical places. If you consider the top 10 historical places in India, Taj Mahal will always be ranking high in the list. Explore the ultimate epitome of love, the Taj Mahal, whose grandeur remains unmatched in history and today this is one of the weekend getaways from Delhi. This opulent white marble structure was commissioned to be built in 1632 by Shah Jahan for his late wife Mumtaz Mahal. It took around 22 years to complete this magnificent structure that is considered one of the most famous historical places in India.",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2017/07/Agra1.jpg"
+            ],
+            "price": "40"
+        },
+        {
+            "id": 14,
+            "category": "historical",
+            "title": "Agra Fort, Uttar Pradesh",
+            "rating": "4.2/5",
+            "duration": " 6 am to 6 pm",
+            "destination": "Uttar Pradesh",
+            "description": "To get a sense of the rich history of the Mughal era, visit the walled palatial Agra Fort, one of the famous historical places in India that is built entirely of red sandstone. Built in 1565 by Akbar, this historical tourist place in India has two ornately designed gates: the Amar Singh Gate and the Delhi Gate. You can only enter through the Amar Singh Gate to uncover an ancient city filled with gateways, courts, passages, palaces and mosques. It is one of the most beautiful places to visit in Agra.",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2019/02/Agra-Fort-Uttar-Pradesh.jpg"
+            ],
+            "price": "40"
+        },
+        {
+            "id": 15,
+            "category": "historical",
+            "title": " Red Fort, Delhi",
+            "rating": "4.3/5",
+            "duration": " 9:30 am to 4:30 pm daily (Closed on Mondays)",
+            "destination": "Delhi",
+            "description": "One of the historical tourist places in India, the Red Fort was constructed over ten years from 1638 to 1648. This fort was constructed when Shah Jahan shifted the capital from Agra to Delhi and it was then known as the Qila-e-Mubarak. This octagonal fort is one of the most famous historical places in north India and is also the site where the President gives his speech on Independence Day. The Red fort is truly remarkable and one of the best historical places in India.",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2019/02/Red-Fort-Delhi.jpg"
+            ],
+            "price": "10"
+        },
+        {
+            "id": 16,
+            "category": "historical",
+            "title": "Khajuraho Temples, Madhya Pradesh",
+            "rating": "4.3/5",
+            "duration": " 9:30 am to 4:30 pm daily (Closed on Mondays)",
+            "destination": "Madhya Pradesh",
+            "description": "Khajuraho has always been thought of as the place that exemplifies sensuality and eroticism at its best. However this is a misrepresentation as only about 10 percent of the sculptures are sensual and the rest are common depictions. Countless sculptures depicting love, eternal grace, beauty, delicacy and the creative arts can be seen in one of the most historical places in India. A perfect amalgamation of Hinduism and Jainism, Khajuraho temples have carvings of cult icons, demi gods and Apsaras",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2019/02/Khajuraho-Temples-Madhya-Pradesh.jpg"
+            ],
+            "price": "10"
+        },
+        {
+            "id": 17,
+            "category": "heritage",
+            "title": "Gitanjali Homestay  Your Lavish Holiday Abode",
+            "rating": "4.3/5",
+            "duration": " 1 day",
+            "destination": "Mysore",
+            "location": "Lalitadripura Road, opposite to Brigade Splendour, Mysuru",
+            "description": "There are only few homestays in Mysore that offers mesmerising views of Chamundi hills and Gitanjali Homestay Mysore is one such property. This rustic themed property is rightly placed amid lush green gardens that make it an ideal retreat in Mysore. Good home-cooked local food, chirping birds, and artistic décor make the stay in Gitanjali Homestay a significant one",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/04/gitanjlai766239eb.jpg"
+            ],
+            "price": "4500"
+        },
+        {
+            "id": 18,
+            "category": "heritage",
+            "title": " Tulip's Homestay  Your Budget Friendly Abode",
+            "rating": "4.0/5",
+            "duration": " 1 day",
+            "destination": "Mysore",
+            "location": "No. 922, 6th Main, 10th Cross Road, Manchegowdana koppalu, Vijayanagar 1st Stage, Mysore",
+            "description": "A stay in Tulip Homestay Mysore, is an ideal way to spend a relaxed and peaceful vacation with family. The place has 3 AC studio rooms and 2 non-AC studio rooms and offers a huge range of facilities. The rooms have attached kitchenettes are well-equipped with utensils and an induction stove, whereas the lounge area has a microwave oven and refrigerator for all guests. With all other necessary amenities like power backup, room service, travel desk and laundry facilities; Tulip Homestay is a good choice in budget category.",
+            "image": [
+                "https://img.traveltriangle.com/blog/wp-content/uploads/2018/04/Tulip%E2%80%99s-Homestay-kb6592.jpg"
+            ],
+            "price": "2500"
+        },
+        {
+            "id": 19,
+            "category": "heritage",
+            "title": "Seetha Homestay  Everything for a Blissful Holiday",
+            "rating": "4.2/5",
+            "duration": " 1 day",
+            "destination": "Mysore",
+            "location": "Parmahamsa road, 8/1, Yadavagiri Extension, Mysuru",
+            "description": "The neat and clean rooms, artistic décor and en-suite kitchen welcome you at Seetha Homestay Mysore. But not only top-class facilities, the impeccable hospitality and cordial behaviour of the staff fascinate every guest here.",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/04/Seetha-Homestay-kb6592.jpg"
+            ],
+            "price": "1300"
+        },
+        {
+            "id": 20,
+            "category": "heritage",
+            "title": "Green Lotus House  Pampered by Amazing Hosts",
+            "rating": "4.3/5",
+            "duration": " 1 day",
+            "destination": "Mysore",
+            "location": "Gokulam, Mysore",
+            "description": "Green Lotus House is one of the most popular homestays in Mysore, you can't afford to miss. The place is located strategically and market places, ATM, bus stand and tourist places like Mysore Palace is at stone throw distance. This renowned homestay in Mysore Gokulam is a two bedroom, fully-serviced apartment, endowed with sober décor, antique furniture and clean and tidy rooms. They have a huge lounge area where people can enjoy leisure time, read and meditate whereas the spacious terrace offers refreshing views of lush green garden. On the top of this, host Hari and Ananya offer personal attention and make sure you are well attended and well-pampered",
+            "image": [
+                "https://img.traveltriangle.com/blog/wp-content/uploads/2018/04/Gitanjali-Homestay-mysore-kb6592.jpg"
+            ],
+            "price": "2300"
+        },
+        {
+            "id": 21,
+            "category": "camping",
+            "title": "Pangong Retreat Camp",
+            "rating": "4.3/5",
+            "duration": " 1 day",
+            "destination": "Pangong Lake",
+            "location": "Near Pangong Lake, Spangmik, Pin - 194101",
+            "description": "Pangong Retreat Camp is the highest rated camp by travelers on Google and TripAdvisor and the camps truly stand by trust incorporated in it. Lush greenery and lake facing camps make for the most scenic vista for camping in Leh Ladakh. While looking for the best places to visit to Leh Ladakh, consider this camp and head to this, if your priority is unmatched views along with unparalleled comfort with a sole motive of camping at Leh.",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/04/acj-2404-camping-in-leh-5.jpg"
+            ],
+            "price": "5300"
+        },
+        {
+            "id": 22,
+            "category": "camping",
+            "title": "Camp Redstart ",
+            "rating": "4.3/5",
+            "duration": " 1 day",
+            "destination": "Leh Ladakh",
+            "location": " Spangmik Village, Leh, Jammu & Kashmir, Pin - 194101",
+            "description": "Just a few minutes of walk from the lake would take you to Camp Redstart - another idyllic campsite in the great gorgeous Himalayan land. From impeccable stay to wonderful dining option, this place has everything to tickle your wanderlust. The daunting altitude of Camp Redstart gives it the vital edge over the competitors who provide camping in Leh Ladakh. It is from here that you get to marvel at the magical nature views with stunning Pangong Tso in the backdrop.",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/04/acj-2404-camping-in-leh-4.jpg"
+            ],
+            "price": "3300"
+        },
+        {
+            "id": 23,
+            "category": "camping",
+            "title": "Tsomoriri Camp And Resort ",
+            "rating": "4.2/5",
+            "duration": " 1 day",
+            "destination": "Tsomoriri Lake",
+            "location": " Tsomoriri Lake, Korzok Village, Pin -194101",
+            "description": "Leh Ladakh camps are so popular and the Tsomoriri Camps are the perfect stay options for every nature seeker. A camping session here at 15,000 feet in the Changthang territory would enable you to bask in the glory of the vast nature basking in the awesomeness of the Himalayas. Altogether there are 5 rooms and 15 connected tents with all the facilities at your disposal. The views of wonderful Lake in front would fill your heart with plenty of awesomeness on your Leh Ladakh camping trip.",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/04/acj-2404-camping-in-leh-7.jpg"
+            ],
+            "price": "6300"
+        },
+        {
+            "id": 24,
+            "category": "camping",
+            "title": "Tsermang Eco Camp",
+            "rating": "4.6/5",
+            "duration": " 1 day",
+            "destination": "Jammu & Kashmir",
+            "location": "On the banks of Indus River, Leh, Jammu & Kashmir, Pin - 194101",
+            "description": "A mere 10-minute ride from Leh town will get you to the Tsermang Eco Camp. The camps are located at a scenic spot offering terrific nature views around. The camps are located in the close proximity of Indus river and the views of shimmering water around are a treat for every nature lover. 8 luxurious camps are up for grabs that allow you a weatherproof, well-ventilated stay. You can also avail the facility of roll-up windows while in the tent. It is one of the amazing camping sites in Leh.",
+            "image": [
+                "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/04/acj-2404-camping-in-leh-11.jpeg"
+            ],
+            "price": "6300"
+        }
+    ]
+}
