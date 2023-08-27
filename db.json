@@ -881,27 +881,9 @@
         },
         {
             "id": 2,
-            "username": "alka",
-            "password": "alka@admin",
-            "email": "alka@admin.com"
-        },
-        {
-            "id": 3,
-            "username": "piyush",
-            "password": "piyush@admin",
-            "email": "piyush@admin.com"
-        },
-        {
-            "id": 4,
-            "username": "Ashutosh",
-            "password": "ashutosh@admin",
-            "email": "ashutosh@admin.com"
-        },
-        {
-            "id": 5,
             "username": "Abhijit",
-            "password": "abhijit@admin",
-            "email": "abhijit@admin.com"
+            "password": "Abhijit",
+            "email": "abhijitbarman96@gmail.com"
         }
     ],
     "sales": [
@@ -1307,20 +1289,6 @@
                 "https://assets.traveltriangle.com/blog/wp-content/uploads/2018/04/acj-2404-camping-in-leh-11.jpeg"
             ],
             "price": "6300"
-        }
-    ],
-    "experimant": [
-        {
-            "id": 1,
-            "username": "admin",
-            "password": "admin",
-            "email": "admin@admin.com"
-        },
-        {
-            "id": 2,
-            "username": "Abhijit",
-            "password": "Barman",
-            "email": "experimant@gmail.com"
         }
     ]
 }
